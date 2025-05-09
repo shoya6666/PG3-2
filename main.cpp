@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//02
 
 int Recursive1(int kyuuryou, int zikan, int kotei) {
 	if (kyuuryou >= kotei) {
